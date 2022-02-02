@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mhB+PnZjFKjwMdQ/Hv7usCGLOTSQ30N3r5ff/Hl0C4090zOkbtbFfiLvPsqxCZ+WSs9D4qFQvYf6VPA4S8M1Iw==",
+  "dgSpecHash": "l4+Rvf0Fuq2jcyRY+I4GmX/4xo44184pX8Uzav39sosnk8pbs2nq6K3nnLz6U3157OfwcDMMYWAsJLZs2JYbTA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\ApressMvc\\ApressMvc\\ApressMvc.csproj",
+  "projectFilePath": "C:\\dev\\apressmvc\\ApressMvc\\ApressMvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

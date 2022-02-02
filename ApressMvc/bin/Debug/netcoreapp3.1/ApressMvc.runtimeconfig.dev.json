@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\rog\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\rog\\.nuget\\packages"
+      "C:\\Users\\rioxd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rioxd\\.nuget\\packages"
     ]
   }
 }

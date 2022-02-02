@@ -8,7 +8,6 @@ C:\dev\ApressMvc\ApressMvc\bin\Debug\netcoreapp3.1\ApressMvc.dll
 C:\dev\ApressMvc\ApressMvc\bin\Debug\netcoreapp3.1\ApressMvc.pdb
 C:\dev\ApressMvc\ApressMvc\bin\Debug\netcoreapp3.1\ApressMvc.Views.dll
 C:\dev\ApressMvc\ApressMvc\bin\Debug\netcoreapp3.1\ApressMvc.Views.pdb
-C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.csproj.AssemblyReference.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.AssemblyInfoInputs.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.AssemblyInfo.cs
@@ -17,8 +16,6 @@ C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.MvcApplicationParts
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.RazorAssemblyInfo.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.RazorAssemblyInfo.cs
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\staticwebassets\ApressMvc.StaticWebAssets.Manifest.cache
-C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\staticwebassets\ApressMvc.StaticWebAssets.xml
-C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApressMvc.styles.css
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.TagHelpers.input.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.TagHelpers.output.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.RazorCoreGenerate.cache
@@ -37,3 +34,8 @@ C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.pdb
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.genruntimeconfig.cache
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.csproj.CopyComplete
 C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_RxPartial.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CitySummary\Default.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.csproj.AssemblyReference.cache
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PageSize\Default.cshtml.g.cs

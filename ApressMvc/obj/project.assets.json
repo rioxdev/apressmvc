@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rog\\.nuget\\packages\\": {}
+    "C:\\Users\\rioxd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\ApressMvc\\ApressMvc\\ApressMvc.csproj",
+      "projectUniqueName": "C:\\dev\\apressmvc\\ApressMvc\\ApressMvc.csproj",
       "projectName": "ApressMvc",
-      "projectPath": "C:\\dev\\ApressMvc\\ApressMvc\\ApressMvc.csproj",
-      "packagesPath": "C:\\Users\\rog\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\ApressMvc\\ApressMvc\\obj\\",
+      "projectPath": "C:\\dev\\apressmvc\\ApressMvc\\ApressMvc.csproj",
+      "packagesPath": "C:\\Users\\rioxd\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\apressmvc\\ApressMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rioxd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

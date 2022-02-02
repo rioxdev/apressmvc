@@ -31,11 +31,24 @@
         </nav>
     </header>
     <div class="container">
-        @RenderSection("Header")
+        <div class="bg-primary m-1 p-1">
+            <div class="row text-white">
+                <div class="col-7"><h1>Apress MVC book</h1></div>
+                <div class="col-5">
+                    <div class="bg-info text-center m-1 p-1"> @await Component.InvokeAsync(nameof(CitySummary))</div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    @await Component.InvokeAsync("PageSize")
+                </div>
+            </div>
+        </div>
+        @RenderSection("Header", false)
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-        @RenderSection("Footer")
+        @RenderSection("Footer", false)
     </div>
 
     <footer class="border-top footer text-muted">
