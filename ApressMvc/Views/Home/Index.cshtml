@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model string[]
+
+<div class="text-center">
+    <h1>Rampage extrem</h1>
+
+    <p>Venant du viewmodel :</p>
+    @foreach (var item in Model)
+    {
+        <span class="rx-span">@item</span> <span>&nbsp;</span>
+    }
+
+    
+
+    @await Html.PartialAsync("_RxPartial")
+
+    <partial name="_RxPartial" />
+
+</div>
+
+@section Header{
+    <div class="bg-success">
+        <span>Ceci est dans la section Header</span>
+    </div>
+}
+
+
+@section Footer{ 
+    <div class="bg-warning">
+        <span>Section footer</span>
+    </div>
+}
