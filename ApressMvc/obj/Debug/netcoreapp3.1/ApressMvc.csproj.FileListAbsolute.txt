@@ -37,5 +37,9 @@ C:\dev\ApressMvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\_RxPartial.c
 C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
 C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
 C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CitySummary\Default.cshtml.g.cs
-C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.csproj.AssemblyReference.cache
 C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\PageSize\Default.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\City\Create.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Hybrid\Default.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\ApressMvc.csproj.AssemblyReference.cache
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Appointment\Create.cshtml.g.cs
+C:\dev\apressmvc\ApressMvc\obj\Debug\netcoreapp3.1\Razor\Views\Appointment\Completed.cshtml.g.cs
