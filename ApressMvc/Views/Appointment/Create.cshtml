@@ -9,21 +9,40 @@
 </div>
 
 <form class="m-1 p-1" asp-action="MakeBooking" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
     <div class="form-group">
         <label asp-for="ClientName">Your name : </label>
+        <div>
+            <span asp-validation-for="ClientName" class="text-danger"></span>
+        </div>
         <input asp-for="ClientName" class="form-control" />
     </div>
     <div class="form-group">
         <label asp-for="Date">Date :</label>
+        <div>
+            <span asp-validation-for="Date" class="text-danger"></span>
+        </div>
         <input asp-for="Date"  class="form-control" asp-format="{0:d}"/>
     </div>
     <div class="radio form-group">
-        <input asp-for="TemrsAccepted"/>
+        <div>
+            <span class="text-danger" asp-validation-for="TemrsAccepted"></span>
+        </div>
+        <input asp-for="TemrsAccepted" />
         <label asp-for="TemrsAccepted" class="form-check-label">
             I accept the terms and conditions
         </label>
-        
+
     </div>
 
     <button type="submit">Make booking</button>
 </form>
+
+@section scripts
+{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('input.input-validation-error').closest('.form-group').addClass('has-danger');
+        });
+    </script>
+}
